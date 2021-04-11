@@ -351,7 +351,6 @@ div.footer h6 {
     ul.nav-links {
         display: none;
         width: 100vw;
-        height: 100vh;
         position: absolute;
         z-index: 100;
         background: #f0f0f0;
