@@ -110,6 +110,7 @@ div.background {
     padding: 3rem;
     position: relative;
     max-width: 550px;
+    margin: 0 auto;
 }
 
 div.background h4 {
